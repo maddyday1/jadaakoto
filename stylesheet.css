@@ -1,0 +1,123 @@
+.cowboys{
+    width: 100vw; 
+    height: 100vh;
+    background-image: url("../Images/Cowboys.png");
+    background-size: cover;
+    position: relative;
+    top: -240px;
+    z-index: -1;
+}
+
+.Nav a{
+    float: center;
+    position: relative;
+    left: 500px;
+    top: -260px;
+    color: #FE0202;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.Nav a:hover {
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.Nav a:active {
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.AboutMe {
+    float: center;
+    position: relative;
+    top: -250px;
+    color:#FE0202;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+.Knoll {
+    position: relative;
+    left: 430px;
+    top: -150px;
+}
+.Contact {
+    float: center;
+    position: relative;
+    top: -250px;
+    color:#FE0202;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+
+}
+.Header {
+    position: relative;
+    top: -150px;
+    z-index: -1;
+    width: 400px;
+    height: 300px;
+}
+.am{
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+  }
+.sil {
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.mj {
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.l {
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.aboutleading {
+    line-height: 250%;
+}
+.wm{
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+.fm{
+    -webkit-text-stroke: 0.5px #FE0202 ;
+    color: white
+}
+a {
+    color:#FE0202;
+    text-align: center;
+    font-size: 49px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    text-decoration: none;
+} 
+.NEC {
+    position: relative;
+    left: 430px;
+    top: -200px;
+}
+.EOTW {
+    position: relative;
+    left: 430px;
+    top: -180px;
+}
+.row{
+    display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column{
+    flex: 30%;
+  padding: 0 4px;
+  width: 200px;
+  position: relative;
+  left: 230px;
+  top: -150px;
+}
